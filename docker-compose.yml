@@ -1,0 +1,12 @@
+version: "3.9"
+
+services:
+  classicube:
+    build: .
+    container_name: classicube_server
+    restart: unless-stopped
+    working_dir: /opt/server
+    stdin_open: true
+    tty: true
+    ports:
+      - "25572:25572"
