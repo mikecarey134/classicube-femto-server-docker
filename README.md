@@ -1,6 +1,5 @@
 # classicube-femto-server-docker
 Dockerized Classicube server instance using Docker and Wine
-Here’s the full README.md in a single file format for your FemtoCraft Docker server:
 
 # FemtoCraft Dockerized Server
 
@@ -30,7 +29,6 @@ This setup allows you to run **FemtoCraft 1.28 / ClassiCube** inside a Docker co
 
 - Docker (version 20+ recommended)  
 - Docker Compose (version 1.29+ recommended)  
-- Linux host (Ubuntu 22.04 used in this setup)  
 
 ## Setup
 
